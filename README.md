@@ -38,6 +38,10 @@ python scrap.py --year 1996 --country Korean --ep (optional: --newer date-time)
   RAW First Love Episode 65 2015-03-05 09:34:25
   SUB First Love Episode 61 2015-03-05 09:34:25
 ```
+6. Program displays only episodes type RAW or SUB,
+   eg. --raw, --sub
+8. Program displays only dramas which have numbeer of episodes between X and y,
+   eg --num 3 20
 
 ## Python
 
