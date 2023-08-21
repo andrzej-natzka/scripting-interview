@@ -41,7 +41,7 @@ python scrap.py --year 1996 --country Korean --ep (optional: --newer date-time)
 6. Program displays only episodes type RAW or SUB,
    eg. --raw, --sub
 8. Program displays only dramas which have numbeer of episodes between X and y,
-   eg --num 3 20
+   eg --num 3-20
 
 ## Python
 
